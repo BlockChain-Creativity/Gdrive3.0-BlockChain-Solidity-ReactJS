@@ -18,7 +18,6 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd music_nfts
 $ npm install
 ```
 ### 3. Deploy ur Contract n  Add Contract Adress into App.js
